@@ -43,5 +43,15 @@ endmodule
 <p>
 <b>Comentários</b><br>
 Quando uma das três variáveis recebe um sinal de entrada, o led 'l' acenderá. No entanto, caso um outro sinal de entrada é recebido por outra variável, o led se apagará. Ou seja, o led somente se acenderá quando apenas uma variável, ou todas as três variáveis receberem o sinal de entrada. Caso contrário, o led se apagará.
-
-A proposta do exercício é modificar o código, simplificando-o.
+<p>
+O código pode ser simplificado como abaixo:
+<pre>
+ module Projeto01             // nome do módulo = nome do arquivo.v
+  (
+  input a, b, c,                       // ports in: conecte às chaves sliders
+  output l                             // port out: conecte a um LED na placa!
+  );
+  
+  assign l = (~a & ~b & c)| (~a & b & ~c) | (a & ~b & ~c) | a & b & c;        // soma de produtos final...
+endmodule 
+</pre>
