@@ -33,5 +33,5 @@ endmodule
 </pre>
 
 <b>Simulação en Questa</b><br>
-https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard01.jpg
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard01.jpg">
 
