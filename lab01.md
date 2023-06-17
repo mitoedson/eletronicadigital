@@ -41,6 +41,6 @@ endmodule
 
 <b>Simulação no Questa</b>
 <p>
-<img src="https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard01.jpg">
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard02.jpg">
 
 
