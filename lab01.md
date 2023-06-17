@@ -67,3 +67,18 @@ module Projeto01             // nome do módulo = nome do arquivo.v
   assign l = a ^ b ^ c;        // soma de produtos final...
 endmodule 
 </pre>
+<p>
+Inserindo mais uma variável, temos:
+<pre>
+module Projeto01             // nome do módulo = nome do arquivo.v
+  (
+  input a, b, c, d,                     // ports in: conecte às chaves sliders
+  output l                             // port out: conecte a um LED na placa!
+  );
+  
+  assign l = a ^ b ^ c ^ d;        // soma de produtos final...
+endmodule
+</pre>
+<p>
+Obtemos a seguinte forma de onda:
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard03.jpg">
