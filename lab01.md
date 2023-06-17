@@ -52,6 +52,18 @@ O código pode ser simplificado como abaixo:
   output l                             // port out: conecte a um LED na placa!
   );
   
-  assign l = (~a & ~b & c)| (~a & b & ~c) | (a & ~b & ~c) | a & b & c;        // soma de produtos final...
+  assign l = (~a & ~b & c) | (~a & b & ~c) | (a & ~b & ~c) | a & b & c;        // soma de produtos final...
+endmodule 
+</pre>
+<p>
+Ou simplificando mais um pouco, utilizando a porta XOR (^)...
+<pre>
+module Projeto01             // nome do módulo = nome do arquivo.v
+  (
+  input a, b, c,                       // ports in: conecte às chaves sliders
+  output l                             // port out: conecte a um LED na placa!
+  );
+  
+  assign l = a ^ b ^ c;        // soma de produtos final...
 endmodule 
 </pre>
