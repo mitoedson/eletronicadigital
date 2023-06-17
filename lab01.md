@@ -1,7 +1,5 @@
 <h3>Prática 01</h3>
 
-Utilizando o Quartus Prime Lite Edition, utilizar duas entradas que controlam dois leds através do Verilog. Esta primeira prática tem como objetivo fazer uma introdução do programa Quartus, e realizar a simulação através do Questa Intel Started FPGA.
-
 <b>Código</b>
 <pre>
 /* ----------------------------------------------------------------------------
@@ -42,5 +40,8 @@ endmodule
 <b>Simulação no Questa</b>
 <p>
 <img src="https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard02.jpg">
+<p>
+<b>Comentários</b><br>
+Quando uma das três variáveis recebe um sinal de entrada, o led 'l' acenderá. No entanto, caso um outro sinal de entrada é recebido por outra variável, o led se apagará. Ou seja, o led somente se acenderá quando apenas uma variável, ou todas as três variáveis receberem o sinal de entrada. Caso contrário, o led se apagará.
 
-
+A proposta do exercício é modificar o código, simplificando-o.
