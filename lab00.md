@@ -1,6 +1,6 @@
 <h3>Prática 00</h3>
 
-Duas variáveis controlam dois leds através do Verilog.
+Utilizando o Quartus Prime Lite Edition, utilizar duas entradas que controlam dois leds através do Verilog. Esta primeira prática tem como objetivo fazer uma introdução do programa Quartus, e realizar a simulação através do Questa.
 
 <b>Código</b>
 <pre>
