@@ -1,5 +1,7 @@
 <h3>Prática 00</h3>
 
+Duas variáveis controlam dois leds através do Verilog.
+
 <b>Código</b>
 <pre>
 /* ----------------------------------------------------------------------------
@@ -32,6 +34,7 @@ endmodule
 // -------------- final do código --------------------------
 </pre>
 
-<b>Simulação en Questa</b><br>
+<b>Simulação no Questa</b>
+<p>
 <img src="https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard01.jpg">
 
