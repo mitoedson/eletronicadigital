@@ -32,6 +32,6 @@ endmodule
 // -------------- final do código --------------------------
 </pre>
 
-<b>Simulação en Questa</b>
-Clipboard01.jpg
+<b>Simulação en Questa</b><br>
+https://github.com/mitoedson/eletronicadigital/blob/Labs/Clipboard01.jpg
 
