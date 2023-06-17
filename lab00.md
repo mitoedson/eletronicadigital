@@ -31,3 +31,7 @@ endmodule
   
 // -------------- final do código --------------------------
 </pre>
+
+<b>Simulação en Questa</b>
+Clipboard01.jpg
+
