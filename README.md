@@ -7,3 +7,4 @@ Disciplina ministrada pelo Prof. João Ranhel.
 
 <p>
 <b>Labs</b>
+https://github.com/mitoedson/eletronicadigital/tree/Labs
