@@ -1,6 +1,6 @@
 <h3>Prática 01</h3>
 
-Utilizando o Quartus Prime Lite Edition, utilizar duas entradas que controlam dois leds através do Verilog. Esta primeira prática tem como objetivo fazer uma introdução do programa Quartus, e realizar a simulação através do Questa.
+Utilizando o Quartus Prime Lite Edition, utilizar duas entradas que controlam dois leds através do Verilog. Esta primeira prática tem como objetivo fazer uma introdução do programa Quartus, e realizar a simulação através do Questa Intel Started FPGA.
 
 <b>Código</b>
 <pre>
