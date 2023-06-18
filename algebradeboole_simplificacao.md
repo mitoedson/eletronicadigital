@@ -36,14 +36,16 @@ Simplificando:
   W = ABC + B + ~C + A + ~A + ~B + ~C = ABC + (B + ~B) + (A + ~A) + (~C + ~C) = ABC + 1 + 1 + ~C = 1
 </pre>
 <p>
-(6) 
+(6) Y = A~BC + A~B~C + ~(AB) + ~B 
 <pre>
 Simplificando:
+  Y = A~BC + A~B~C + ~(AB) + ~B = A~BC + A~B~C + ~A + ~B + ~B = ~B(AC + A~C) + ~A + (~B + ~B) = ~B(A(C + ~C)) + ~A + (~B + ~B) = ~B(A(1)) + ~A + ~B = (~BA + ~B) + ~A = ~B + ~A = ~(AB) 
 </pre>
 
 <p>
-(7) 
+(7) Z = A~BC + A~B~C + ~A~B + ~B 
 <pre>
 Simplificando:
+  Z = ~B(AC + A~C) + (~A~B + ~B) = ~B(A(C + ~C)) + ~B = ~B(A(1)) + ~B = ~BA + ~B = ~B
 </pre>
 
