@@ -3,6 +3,10 @@
 <p>
 (1) X = ~(AB)C + AC + BC
 <pre>
+Montagem do circuito:
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/circuito01_a.jpg" width=250>
+</pre>
+<pre>
 Simplificando:
   X = C (~(AB) + A + B) = C(~A + ~B + A + B) = C((~A + A) + (~B + B)) = C(1 + 1) = C(1) = C
 </pre>
