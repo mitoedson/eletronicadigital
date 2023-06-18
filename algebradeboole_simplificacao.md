@@ -6,12 +6,6 @@
 Simplificando:
   X = C (~(AB) + A + B) = C(~A + ~B + A + B) = C((~A + A) + (~B + B)) = C(1 + 1) = C(1) = C
 </pre>
-<p>
-Programando no Quartus Lite:<br>
-<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/Exercicio01_a.png">
-<p>
-Simulando no Questa Prime Lite<br>
-<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/Exercicio01_b.png">
 
 <p>
 (2) Y = AB + ~AB * A~B + ~AB
