@@ -8,7 +8,7 @@ Simplificando:
 </pre>
 <pre>
 Utilizando o Mapa de Karnaugh:
-<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/karnaugh01_a.jpg">
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/karnaugh01_a.jpg" width=250>
 </pre>
 
 
