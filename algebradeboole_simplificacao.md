@@ -30,11 +30,11 @@ Simplificando:
 </pre>
 
 <p>
-(5) 
+(5) W = ABC + ~(~BC~A) + ~(ABC)
 <pre>
 Simplificando:
+  W = ABC + B + ~C + A + ~A + ~B + ~C = ABC + (B + ~B) + (A + ~A) + (~C + ~C) = ABC + 1 + 1 + ~C = 1
 </pre>
-
 <p>
 (6) 
 <pre>
