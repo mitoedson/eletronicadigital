@@ -32,6 +32,10 @@ Utilizando o Mapa de Karnaugh:
 <p>
 (3) Z = ABC + ~ABC + ~BAC
 <pre>
+Montagem do circuito:
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/circuito03_a.jpg" width=500>
+</pre>
+<pre>
 Simplificando:
   Z = C(AB + ~AB + ~BA) = C(A(B + ~B) + ~AB) = C(A(1) + ~AB) = C(A + B) = AC + BC
 </pre>
