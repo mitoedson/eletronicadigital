@@ -8,5 +8,7 @@ Simplificando:
 </pre>
 <p>
 Programando no Quartus Lite:<br>
+<img src="">
 <p>
 Simulando no Questa Prime Lite<br>
+<img src="">
