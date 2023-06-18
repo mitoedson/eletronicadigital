@@ -6,6 +6,12 @@
 Simplificando:
   X = C (~(AB) + A + B) = C(~A + ~B + A + B) = C((~A + A) + (~B + B)) = C(1 + 1) = C(1) = C
 </pre>
+<pre>
+Utilizando o Mapa de Karnaugh:
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/karnaugh01_a.jpg
+">
+</pre>
+
 
 <p>
 (2) Y = AB + ~AB * A~B + ~AB
