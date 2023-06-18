@@ -4,7 +4,7 @@
 (1) X = ~(AB)C + AC + BC
 <pre>
 Montagem do circuito:
-<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/circuito01_a.jpg" width=250>
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/circuito01_a.jpg" width=500>
 </pre>
 <pre>
 Simplificando:
