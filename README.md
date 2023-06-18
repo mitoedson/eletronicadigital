@@ -4,7 +4,7 @@ Disciplina ministrada pelo Prof. João Ranhel.
 
 <p>
 <b>Teoria</b>
-
+https://github.com/mitoedson/eletronicadigital/blob/Teoria/README.md
 <p>
 <b>Labs</b>
 https://github.com/mitoedson/eletronicadigital/tree/Labs
