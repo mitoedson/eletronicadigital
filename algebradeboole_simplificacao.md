@@ -8,7 +8,7 @@ Simplificando:
 </pre>
 <p>
 Programando no Quartus Lite:<br>
-<img src="">
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/Exercicio01_a.png">
 <p>
 Simulando no Questa Prime Lite<br>
-<img src="">
+<img src="https://github.com/mitoedson/eletronicadigital/blob/Teoria/Exercicio01_b.png">
