@@ -3,8 +3,8 @@
 Disciplina ministrada pelo Prof. João Ranhel.
 
 <p>
-<b>Teoria</b>
+<b>Teoria</b><br>
 https://github.com/mitoedson/eletronicadigital/blob/Teoria
 <p>
-<b>Labs</b>
+<b>Labs</b><br>
 https://github.com/mitoedson/eletronicadigital/tree/Labs
